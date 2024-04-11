@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Roboto");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/box.css");
+@import url("components/container2.css");
+
+body{
+	font-family: "Roboto", sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #F6F5F2;
+	
+}
+
+h1, h2, h3 {
+	font-family: "DM Serif Display", serif;
+}
+
+a{
+	text-decoration:none;
+}
